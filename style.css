@@ -1,0 +1,35 @@
+.HEADER{background-color: yellow;
+     display: flex;
+     justify-content:center;
+font-family: fantasy;}
+
+
+.FOOTER{
+    background-color:lightgreen;
+    display: flex;
+  justify-content:center ;
+  border: solid;
+  border-radius: 0.5cm;
+  
+}
+.GRID{
+  background-color: greenyellow;
+display: flex;
+border-radius: 1cm;
+border:solid ;
+flex-wrap:wrap-reverse;
+justify-content:space-evenly ;
+padding-top: 40px;
+font-family: fantasy;
+}
+p{
+  
+text-align: center;
+}
+h2{
+  text-align: center;
+  border: solid 1mm;
+  padding: 10px;
+ color: cornflowerblue;
+font-family: fantasy;
+}
